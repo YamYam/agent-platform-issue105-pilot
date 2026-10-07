@@ -1,6 +1,6 @@
 # Isolated platform #105 pilot
 
-This private repository is a disposable controller acceptance fixture. It has no
+This public synthetic repository is a disposable controller acceptance fixture. It has no
 application, deployment, secrets, external callbacks, or native setup commands.
 Code and tests may execute only in the pinned GitHub-hosted workflow.
 
